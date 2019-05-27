@@ -1,6 +1,6 @@
 # talks
 
-Materials for various invited talks. Mostly contains interactive Jupyter Notebooks to accompany the slides.
+Accompanying codes for various presentations. Mostly contains interactive Jupyter Notebooks to accompany the slides.
 
 ## Installation:
 
