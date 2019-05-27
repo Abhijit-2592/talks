@@ -1,0 +1,5 @@
+tensorflow==1.10.0
+keras==2.2.4
+matplotlib==2.2.2
+tqdm==4.32.1
+opencv-python==3.4.1.15
